@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NCraftMedia</string>
+    <string name="textTitle" />
+    <string name="textDate" />
+    <string name="shareNum" />
+    <string name="commentNum" />
+    <string name="likeNum" />
+    <string name="textAuthor" />
+</resources>
